@@ -1,0 +1,24 @@
+{
+  "name": "nodejshttpclient",
+  "version": "1.0.0",
+  "description": "a NodeJsHTTPClient Making requests to an API with the https package. Goals: Using the https module to make HTTP requests to Famous Quotes API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgiudatto/NodeJsHTTPClient.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgiudatto/NodeJsHTTPClient/issues"
+  },
+  "homepage": "https://github.com/hgiudatto/NodeJsHTTPClient#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
